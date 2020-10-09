@@ -8,6 +8,12 @@ You have a list of students and you want to divide them into a different list of
 Starting from a class registered into service provider that has an IListSplitterHelper instance , provided in constructor , you could use this snippet to perform splitting operations : 
 
 ```csharp
+// init service provider
+var services = new ServiceCollection();
+// registered type in service provider 
+services.AddSingleton<IListSplitterHelper, ListSplitterHelper>();
+// resolving IListSplitterHelper
+var listSplitterHelper = servicer.GetRequiredService<IListSplitterHelper>();
 // init a students list
 var students = new List<Student>();
 // adding some students
