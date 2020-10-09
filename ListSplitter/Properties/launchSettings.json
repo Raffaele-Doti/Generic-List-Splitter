@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ListSplitter": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

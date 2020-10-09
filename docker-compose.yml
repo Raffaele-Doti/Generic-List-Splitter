@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  listsplitter:
+    image: ${DOCKER_REGISTRY-}listsplitter
+    build:
+      context: .
+      dockerfile: ListSplitter/Dockerfile

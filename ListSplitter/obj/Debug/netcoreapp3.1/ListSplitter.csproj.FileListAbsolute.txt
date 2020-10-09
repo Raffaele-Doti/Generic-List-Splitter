@@ -1,0 +1,16 @@
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\bin\Debug\netcoreapp3.1\ListSplitter.exe
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\obj\Debug\netcoreapp3.1\ListSplitter.AssemblyInfoInputs.cache
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\obj\Debug\netcoreapp3.1\ListSplitter.AssemblyInfo.cs
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\obj\Debug\netcoreapp3.1\ListSplitter.csprojAssemblyReference.cache
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\bin\Debug\netcoreapp3.1\ListSplitter.deps.json
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\bin\Debug\netcoreapp3.1\ListSplitter.runtimeconfig.json
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\bin\Debug\netcoreapp3.1\ListSplitter.runtimeconfig.dev.json
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\bin\Debug\netcoreapp3.1\ListSplitter.dll
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\bin\Debug\netcoreapp3.1\ListSplitter.pdb
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\obj\Debug\netcoreapp3.1\ListSplitter.csproj.CoreCompileInputs.cache
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\obj\Debug\netcoreapp3.1\ListSplitter.csproj.CopyComplete
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\obj\Debug\netcoreapp3.1\ListSplitter.dll
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\obj\Debug\netcoreapp3.1\ListSplitter.pdb
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\ListSplitter\obj\Debug\netcoreapp3.1\ListSplitter.genruntimeconfig.cache

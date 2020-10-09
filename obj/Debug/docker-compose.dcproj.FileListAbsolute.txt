@@ -1,0 +1,8 @@
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\bin\Debug\ListSplitter.exe
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\bin\Debug\ListSplitter.dll
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\bin\Debug\ListSplitter.pdb
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter\obj\Debug\docker-compose.dcproj.CopyComplete

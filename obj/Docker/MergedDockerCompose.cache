@@ -1,0 +1,7 @@
+services:
+  listsplitter:
+    build:
+      context: C:\Users\Raffaele\Desktop\Sviluppo\Progetti_Test\ListSplitter
+      dockerfile: ListSplitter/Dockerfile
+    image: listsplitter
+version: '3.4'

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "94FUmnSWRPsKWoRmOI+BzwjWF7X/2hTi6I8H6i4nKYBWxoZjpftGNN/ROK8gfJo8ZlRn70++eUUxLyIdOq/sdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raffaele\\Desktop\\Sviluppo\\Progetti_Test\\ListSplitter\\ListSplitter\\ListSplitter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raffaele\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\Raffaele\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Raffaele\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Raffaele\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
