@@ -7,8 +7,6 @@ The project has been realized in order to achieve list splitting based on a valu
 You have a list of students and you want to divide them into a different list of 2 students for each. 
 Starting from a class registered into service provider that has an IListSplitterHelper instance , provided in constructor , you could use this snippet to perform splitting operations : 
 
-
-
 ```csharp
 // init a students list
 var students = new List<Student>();
@@ -24,3 +22,10 @@ List<List<Student>> splittedStudentsList = listSplitterHelper.Split<Student>(stu
 // at index 0 will be present a list of students containing student "Stefano Seghetti" and "Marco Manetta"
 // at index 1 will be present a list of students containing student "Rosa Vannicola" and "Gabriella Marchei"
 ```
+# Project architecture
+
+Project meets DI SOLID principle in fact in Program.cs class there is a service provider in order to register and resolve types at runtime. All classes that involve business logic , at the moment only ListSplitterHelper , implements an interface in order to achieve a common behavior that could be modified , if necessary , for future purposes.Last , but not least , this project is completely runned on a Linux docker container.
+
+# Run requirements
+
+In order to run this simple project you must have installed Docker in your computer. Clone this repo and run the project from command line or Visual Studio 
