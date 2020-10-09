@@ -1,4 +1,4 @@
-# Generics-List-Splitter
+# Generic-List-Splitter
 
 The project has been realized in order to achieve list splitting based on a value. For instance if you have a list of 6 elements and you want to split it into 3 list of 2 elements you're in the right place!! Simple inject , via service provider , an instance of IListSplitterHelper interface and call "Split" method providing as first param your elements list and as second param 2 ( or your splitting value ).
 
