@@ -24,7 +24,7 @@ List<List<Student>> splittedStudentsList = listSplitterHelper.Split<Student>(stu
 ```
 # Project architecture
 
-Project meets DI SOLID principle in fact in Program.cs class there is a service provider in order to register and resolve types at runtime. All classes that involve business logic , at the moment only ListSplitterHelper , implements an interface in order to achieve a common behavior that could be modified , if necessary , for future purposes.Last , but not least , this project is completely runned on a Linux docker container.
+Project meets DI SOLID principle in fact in Program.cs class there is a service provider in order to register and resolve types at runtime. All classes that involve business logic , at the moment only ListSplitterHelper , implement an interface in order to achieve a common behavior that could be modified , if necessary , for future purposes.Last , but not least , this project is completely runned on a Linux docker container.
 
 # Run requirements
 
