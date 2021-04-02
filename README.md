@@ -13,7 +13,7 @@ var services = new ServiceCollection();
 // registered type in service provider 
 services.AddSingleton<IListSplitterHelper, ListSplitterHelper>();
 // resolving IListSplitterHelper
-var listSplitterHelper = servicer.GetRequiredService<IListSplitterHelper>();
+var listSplitterHelper = services.GetRequiredService<IListSplitterHelper>();
 // init a students list
 var students = new List<Student>();
 // adding some students
